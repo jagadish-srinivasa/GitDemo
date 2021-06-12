@@ -3,6 +3,20 @@ a=('NISHANT','Raj','Suresh','Ramesh')
 print(a)
 print(type(a))
 print(len(a))
+
+tuple eg1:
+a=('NISHANT','Raj','Suresh','Ramesh')
+print(a)
+print(type(a))
+print(len(a))
+
+tuple eg2:
+a=('NISHANT','Raj','Suresh','Ramesh')
+print(a)
+print(type(a))
+print(len(a))
+
+
 b=a[-2]# reverse of a var
 #a[-2]='test'
 #del a[1]
